@@ -1,0 +1,13 @@
+*{
+    background-color: yellow;
+}
+
+h1{
+    font-weight: bold;
+    text-align: center;
+}
+
+img{
+    height: auto;
+    width: 500px;
+}
